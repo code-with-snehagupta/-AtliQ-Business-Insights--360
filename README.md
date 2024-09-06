@@ -6,26 +6,41 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 
 
 
+
+
 Finance View
+
+
 
 Objectives
 
 1.Improve financial planning and budgeting processes.
 2.Enhance cost control and expense management.
 
+
+
 Key Achievements
 
 1.Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 2.Created benchmarking against last year and target goals for budgeting.
 
+
+
 Sales View
 
+
+
 Objectives
+
 
 1.Increase sales revenue and market share.
 2.Enhance customer relationship management.
 
+
+
 Key Achievements
+
+
 
 1.Created customer and product overall sales performance report and unit economics.
 2.Identified sales trends and track KPIs
